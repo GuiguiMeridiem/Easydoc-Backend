@@ -1,2 +1,7 @@
 PyPDF2>=3.0.0
 reportlab>=4.0.0 
+pdf2image
+Pillow
+pygame
+pyperclip
+dearpygui
